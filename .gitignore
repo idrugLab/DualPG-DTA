@@ -1,6 +1,5 @@
 /logs/*
 /jobs/*
-/pts/*
 /history.json
 processed.pkl
 
